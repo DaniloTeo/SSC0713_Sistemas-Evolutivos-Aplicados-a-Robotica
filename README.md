@@ -11,5 +11,6 @@ Aulas serao no Anfiteatro III CAmpus II
 - Simon's Evolution (Tron tira a tampa!): Eleazar Braga, Fabrício Guedes, Gustavo Lopes - https://github.com/fabricio-gf/tira-a-tampa
 - Circuit Optimizer: Guilherme Prearo, Gustavo Nicolau, Paulo Augusto, Vianna - https://github.com/gprearo/CircuitOptimizer
 - Slither IO - Snake Evolution: Paulo Augusto, Guilherme Prearo, Gustavo Nicolau -https://github.com/Kotzly/Slither_IO_IA
+- Cubo Mágico: Danilo Téo, Leonardo de Souza, Rodrigo Valim - https://github.com/DaniloTeo/Rubik_AG
 - Próximo Grupo ...
 
